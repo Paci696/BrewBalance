@@ -14,3 +14,6 @@ BrewBalance is a PHP-based Point of Sale system designed for small cafes. Unlike
 2. Import `database.sql` into your MySQL server (phpMyAdmin).
 3. Configure your database credentials in `connection/db_connect.php`.
 4. Ensure the `pictures/` folder has write permissions for image uploads.
+
+## Used infinityfree 
+brewbalance.infinityfree.me
