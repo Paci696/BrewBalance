@@ -1,0 +1,4 @@
+# Ignore sensitive files
+connection/db_connect.php
+pictures/*.jpg
+pictures/*.png
